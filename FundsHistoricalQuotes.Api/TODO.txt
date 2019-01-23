@@ -1,0 +1,2 @@
+﻿- Add cache for each service (fetch quotes for at least 5 years)
+- Handle concurrency (semaphore slim?)
